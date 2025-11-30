@@ -13,7 +13,8 @@ Location: Computer Lab 4
 Marks: 20% of Total Score
 
 PROJECT STRUCTURE
-=====================================================================
+
+
 ACSC223_Final_Project_Starter/
 ├── docs/
 │   └── Project_Guide.pdf          (Complete guide and instructions)
@@ -24,7 +25,8 @@ ACSC223_Final_Project_Starter/
 │       ├── gui/                   (User interface classes)
 │       └── util/                  (Utility classes)
 └── data/                          (Data storage directory)
-=====================================================================
+
+
 HOW TO GET STARTED
 
 1. Read the Project_Guide.pdf in the docs/ folder
