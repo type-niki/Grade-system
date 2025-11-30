@@ -1,8 +1,8 @@
-================================================================================
+
 ACSC 223 - OBJECT ORIENTED PROGRAMMING (JAVA 1)
 FINAL EVALUATION PROJECT
 Student Grade Management System - Starter Project
-================================================================================
+
 
 Prepared by: Renne Nekesa
 Department of Computer Science
@@ -12,9 +12,7 @@ Presentation Date: 5th December 2025
 Location: Computer Lab 4
 Marks: 20% of Total Score
 
-================================================================================
 PROJECT STRUCTURE
-================================================================================
 
 ACSC223_Final_Project_Starter/
 ├── docs/
@@ -27,9 +25,7 @@ ACSC223_Final_Project_Starter/
 │       └── util/                  (Utility classes)
 └── data/                          (Data storage directory)
 
-================================================================================
 HOW TO GET STARTED
-================================================================================
 
 1. Read the Project_Guide.pdf in the docs/ folder
 2. Review all the .java files in the src/ directory
@@ -37,9 +33,7 @@ HOW TO GET STARTED
 4. Implement the missing functionality as described in the guide
 5. Test your implementation thoroughly
 
-================================================================================
 COMPILATION INSTRUCTIONS
-================================================================================
 
 Open terminal/command prompt and navigate to the src/ directory:
 
@@ -53,6 +47,5 @@ Run the application:
 
     java com.chuka.gradesystem.gui.MainFrame
 
-================================================================================
 
 
